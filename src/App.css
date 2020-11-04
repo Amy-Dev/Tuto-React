@@ -4,7 +4,7 @@
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
+/* Body couleur du background */
 body {
     background: linear-gradient(
         90deg,
@@ -12,7 +12,7 @@ body {
         rgba(100, 115, 255, 1) 100%
     );
 }
-
+/* Le corps du To Do List */
 .todo-app {
     display: flex;
     flex-direction: column;

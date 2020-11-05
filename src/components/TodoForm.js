@@ -33,7 +33,7 @@ function TodoForm(props) {
                 className='todo-input'
                 onChange={handleChange}
                 ref={inputRef}/>
-            <button className='todo-button'> Add todo</button>
+            <button className='todo-button'> Add </button>
         </form>
     );
 }
